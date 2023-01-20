@@ -1,0 +1,2 @@
+# smart
+{"userTags":{"items":[{"tagName":"BNN"},{"tagName":"0xA42830eE059c77cAF8c8200B44AA98"}]},"userAddresses":{"items":[{"address":"0x4b2c0050cdce861b890a979d6d74b0e483a2b752","addressTags":["0xA42830eE059c77cAF8c8200B44AA98","BNN"],"addressUserNote":"","isWatchingDisabled":true,"watching":[],"watchingChannels":[],"createdTime":1659221168086,"updatedTime":1659224850757}]},"userInfo":{},"userTxs":{"items":[]}}
